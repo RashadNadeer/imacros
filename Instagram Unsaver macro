@@ -1,6 +1,6 @@
 
 1	VERSION BUILD=1011 RECORDER=CR
-2	URL GOTO=https://www.instagram.com/rashad_nadeer/saved/
+2	URL GOTO=https://www.instagram.com/Username/saved/
 3	REFRESH
 4	WAIT SECONDS=5
 5	EVENT TYPE=CLICK SELECTOR="HTML>BODY>DIV>DIV>DIV>DIV>DIV>DIV>DIV>DIV>DIV>SECTION>MAIN>DIV>DIV:nth-of-type(2)>ARTICLE>DIV>DIV>DIV>DIV>A>DIV>DIV:nth-of-type(2)" BUTTON=0
